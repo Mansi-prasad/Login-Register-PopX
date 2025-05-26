@@ -1,0 +1,32 @@
+.login-wrapper{
+  border: 1px solid #ccc;
+  padding: 20px;
+  max-width: 380px;
+  background-color:#f9f9f9;
+  height: 100vh;
+  margin: auto;
+}
+.login-title{
+  margin-bottom: 15px;
+  font-size: 25px;
+  font-weight: 600;
+}
+.description p{
+  color: rgb(103, 98, 98);
+  padding-bottom: 20px;
+  font-size: 16px;
+}
+.legend{
+  font-size: 18px;
+}
+.loginbtn{
+   width: 100%;
+  padding: 14px;
+  font-size: 14px;
+  font-weight: 600;
+  background-color: rgb(136, 29, 235);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
